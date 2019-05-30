@@ -1,1 +1,1 @@
-# django-girls-blog-schenkh
+# django-girls-blog-hams
