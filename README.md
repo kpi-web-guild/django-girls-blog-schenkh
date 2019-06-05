@@ -21,5 +21,3 @@ List of contributors who participated in this project will be added later on
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
 ### Acknowledgments
-
-
