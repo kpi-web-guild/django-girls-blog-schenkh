@@ -1,1 +1,5 @@
-# django-girls-blog-hams
+# Personal website project
+## Based on Django framework
+
+
+
