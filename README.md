@@ -11,6 +11,9 @@ A step by step series of examples that tell you how to get a development env run
 ### Running the tests
 How to run the automated tests for this system: TBD
 
+### Build status
+[![Build Status](https://travis-ci.com/kpi-web-guild/django-girls-blog-schenkh.svg?branch=master)](https://travis-ci.com/kpi-web-guild/django-girls-blog-schenkh)
+
 ### Built With
 Django - The web framework used
 
