@@ -31,7 +31,7 @@ repos:
     -   id: remove-crlf
     -   id: forbid-tabs
     -   id: remove-tabs
-        args: [ --whitespaces-count, '2' ]  # defaults to: 4
+        args: [ --whitespaces-count, '4' ]  # defaults to: 4
 
 -   repo: git://github.com/chewse/pre-commit-mirrors-pydocstyle
     rev: 22d3ccf
