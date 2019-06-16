@@ -1,4 +1,4 @@
-# Learning Django/Python 
+# Learning Django/Python
 Personal website project, supposedly could be deployed and used later on.
 At this point should be used for education purposes only.
 
