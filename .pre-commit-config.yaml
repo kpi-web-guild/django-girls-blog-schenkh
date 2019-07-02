@@ -43,7 +43,11 @@ repos:
     hooks:
     -   id: mypy
 
--   repo: https://github.com/pre-commit/mirrors-pylint
-    rev: v2.3.1
+-   repo: local
     hooks:
     -   id: pylint
+        language: system
+        name: PyLint
+        files: \.py$
+        entry: python3 -m pylint.__main__
+        args: []
