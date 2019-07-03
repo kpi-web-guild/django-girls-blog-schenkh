@@ -51,5 +51,5 @@ repos:
         files: \.py$
         entry: python3 -m pylint
         args:
-        - msg-template={path}:L {line:3d}:({symbol}) {msg} (C {column:2d}), ::{msg_id}
+        - --msg-template={path}:L {line:3d}:({symbol}) {msg} (C {column:2d}), ::{msg_id}
         - output-format=colorized
