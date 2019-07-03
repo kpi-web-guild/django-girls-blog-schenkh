@@ -49,5 +49,7 @@ repos:
         language: system
         name: PyLint
         files: \.py$
-        entry: python3 -m pylint.__main__
-        args: []
+        entry: python3 -m pylint
+        args:
+        - msg-template={path}:L {line:3d}:({symbol}) {msg} (C {column:2d}), ::{msg_id}
+        - output-format=colorized
